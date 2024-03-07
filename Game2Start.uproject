@@ -14,6 +14,11 @@
 		{
 			"Name": "TDxUnrealEditor",
 			"Enabled": false
+		},
+		{
+			"Name": "FPSCore",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1e2dd9aadb6f46db9a42a201177d4cdd"
 		}
 	]
 }
